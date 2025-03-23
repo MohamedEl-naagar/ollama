@@ -2,6 +2,8 @@
 
 ## Overview
 This project provides a simple way to store and search Google Keep notes in an SQLite database and use Ollama for generating responses based on stored notes.
+"  deepseek-r1:1.5b "
+DeepSeek-R1-Distill-Qwen-1.5B
 
 ## Features
 - Stores Google Keep notes in an SQLite database
